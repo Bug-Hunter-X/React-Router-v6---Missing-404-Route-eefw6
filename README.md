@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router v6: missing a route to handle 404 (Not Found) errors.  When a user navigates to a URL that doesn't match any defined routes, the application typically shows a blank screen or throws an error.  The solution shows how to properly add a catch-all route to handle these situations and provide a user-friendly 404 page.
